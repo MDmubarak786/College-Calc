@@ -18,5 +18,5 @@
 
 ##
 ```diff
-@@  Don't forget to give a star and follow ... @@
+Don't forget to give a star and follow ...
 ```
