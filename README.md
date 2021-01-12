@@ -12,7 +12,9 @@
 
 # ScreenShots
 
-![photo_2021-01-12_14-45-07](https://user-images.githubusercontent.com/44917891/104294102-ccca0380-54e4-11eb-8d13-4d612af99571.jpg) ![photo_2021-01-12_14-27-30](https://user-images.githubusercontent.com/44917891/104294125-d2bfe480-54e4-11eb-832f-eaf500df6eef.jpg)
+![photo_2021-01-12_14-45-07](https://user-images.githubusercontent.com/44917891/104294102-ccca0380-54e4-11eb-8d13-4d612af99571.jpg =250x250) 
+
+![photo_2021-01-12_14-27-30](https://user-images.githubusercontent.com/44917891/104294125-d2bfe480-54e4-11eb-832f-eaf500df6eef.jpg)
 
 
 
