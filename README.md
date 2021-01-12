@@ -8,6 +8,8 @@
 
 👉 using this app you can seprately calculate the GPA and CGPA marks.
 
+👉 Last About page I am added some social network account links in that page.
+
 ##
 
 # 🤳 ScreenShots 👀 
