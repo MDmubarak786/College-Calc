@@ -26,3 +26,5 @@
 
 ![photo_2021-01-12_14-27-05](https://user-images.githubusercontent.com/44917891/104294202-e23f2d80-54e4-11eb-83b6-c5e9d3c0283b.jpg)
 
+
+<img src="https://user-images.githubusercontent.com/44917891/104294202-e23f2d80-54e4-11eb-83b6-c5e9d3c0283b.jpg" width="400" height="790">
