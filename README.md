@@ -9,3 +9,5 @@
 👉 using this app you can seprately calculate the GPA and CGPA marks.
 
 ##
+
+# ScreenShots
