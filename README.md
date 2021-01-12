@@ -1,14 +1,14 @@
 # 🦾 College Calc 👀 
 
-👋 This is Flutter application made it for College purposes .This useful for calculating the marks in GPA or CGPA marks. 
+👋 ❤️This is Flutter application made it for College purposes .This useful for calculating the marks in GPA or CGPA marks. 
 
-👉 Added Splash Screen
+🟢 Added Splash Screen
 
-👉 In this app , I added some transition while changing the screen.
+🟢 In this app , I added some transition while changing the screen.
 
-👉 using this app you can seprately calculate the GPA and CGPA marks.
+🟢 using this app you can seprately calculate the GPA and CGPA marks.
 
-👉 Last About page I am added some social network account links in that page.
+🟢 Last About page I am added some social network account links in that page.
 
 ##
 
