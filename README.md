@@ -1,3 +1,4 @@
+```
 # 🦾 College Calc 👀 
 
 👋 ❤️This is Flutter application made it for College purposes .This useful for calculating the marks in GPA or CGPA marks. 
@@ -10,6 +11,7 @@
 
 🟢 Last About page I am added some social network account links in that page.
 
+```
 ##
 
 # 🤳 ScreenShots 👀 
