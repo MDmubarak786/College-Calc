@@ -1,7 +1,9 @@
 <h1 align="center">🦾 College Calc 👀</h1>  
 
 ```
-👋 ❤️This is Flutter application made it for College purposes .This useful for calculating the marks in GPA or CGPA marks. 
+👋 ❤️This is Flutter application made it for College purposes.
+
+🟢 This useful for calculating the marks in GPA or CGPA marks. 
 
 🟢 Added Splash Screen
 
