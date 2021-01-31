@@ -1,5 +1,5 @@
 ```
-# 🦾 College Calc 👀 
+<h1>🦾 College Calc 👀</h1>  
 
 👋 ❤️This is Flutter application made it for College purposes .This useful for calculating the marks in GPA or CGPA marks. 
 
@@ -22,37 +22,3 @@
 
 ##
  # 🔴 Kindly Don't forget to give a star and follow ...
-
-
-```
-- Dashboard
-  - Analytic
-  - Monitor
-  - Workspace
-- Form
-  - Basic Form
-  - Step Form
-  - Advanced From
-- List
-  - Standard Table
-  - Standard List
-  - Card List
-  - Search List (Project/Applications/Article)
-- Profile
-  - Simple Profile
-  - Advanced Profile
-- Account
-  - Account Center
-  - Account Settings
-- Result
-  - Success
-  - Failed
-- Exception
-  - 403
-  - 404
-  - 500
-- User
-  - Login
-  - Register
-  - Register Result
-```
