@@ -1,4 +1,3 @@
-
 import 'package:collegecalc/pages/CGPA/HomePage.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -6,11 +5,10 @@ import 'package:flutter_statusbarcolor/flutter_statusbarcolor.dart';
 import './pages/GPA/GpaPage.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-void main() {
-  runApp(
-    new MaterialApp(debugShowCheckedModeBanner: false, home: HomeAlone()),
-  );
-}
+
+
+
+
 
 class HomeAlone extends StatefulWidget {
   @override
