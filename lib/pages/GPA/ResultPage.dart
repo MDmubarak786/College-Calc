@@ -1,7 +1,4 @@
-import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
-import '../../main.dart';
-import 'GpaPage.dart';
+
 
 class ScorePage extends StatelessWidget {
 
